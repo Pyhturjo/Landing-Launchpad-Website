@@ -317,11 +317,16 @@ footer{
         text-align: center;
         padding: 40px 20px;
         border-top: 1px solid #e0e0e0;
+
+
 }
+
 .headings{
      font-size: 36px;
         font-weight: bold;
         color:#4E47FF;
+        font-size: 100px;
+        margin-bottom: 2px;
 
 }
 
@@ -337,5 +342,10 @@ footer{
     align-items: center;
     justify-self:center;
     gap: 30px;
+    font-style: normal;
+}
+
+.no-style{
     text-decoration: none;
+    color: #8987A1;
 }
