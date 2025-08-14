@@ -17,13 +17,15 @@
     transition: color 0.3s eas;
     border-color: aliceblue;
     border-style: none;
-    transition: all 0.3 ease;
+    cursor: pointer;
+    transition: all 0.3 ease-in-out;
 }
 
 
 
 button:hover {
     background-color: red;
+     transform: scale(1.2);
 }
 
 
