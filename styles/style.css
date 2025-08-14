@@ -140,6 +140,7 @@ body {
 
 
 /* 4th page  */
+
 .users{
     display:flex;
  justify-content:space-evenly;
@@ -148,6 +149,13 @@ body {
     margin: 25px 40px;
     padding: 25px 40px;
     gap: 20px;
+
+}
+
+
+.user{
+    border-radius: 14px;
+    background-color:#FFFFFF;
 }
 .content-tite-new{               
     margin-top: 64px;
