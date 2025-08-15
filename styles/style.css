@@ -38,7 +38,7 @@ body {
 
 
 .primary-container {
-    background-image: url(/media/Assets/Hero-bg.png);
+    background-image: url("/media/Assets/Hero-bg.png");
     justify-content: center;
     display: flexbox;
 }
